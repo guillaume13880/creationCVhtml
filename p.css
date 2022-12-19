@@ -1,0 +1,29 @@
+h1 {
+  color: gray;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.paragraphe-formation {
+  color: red;
+}
+h2 {
+  text-align: center;
+  font-family: unset;
+}
+p {
+  text-align: left;
+  font-family: unset;
+}
+body {
+  background: url(img.fond.png) no-repeat center fixed;
+  font-size: 23px;
+}
+ul {
+  border: 2px solid black;
+  box-shadow: 6px 6px 0px cadetblue;
+}
+h2,
+h1 {
+  background-color: lightblue;
+}
